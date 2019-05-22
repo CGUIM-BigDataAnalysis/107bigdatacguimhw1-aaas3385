@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558505428322.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "737772D6",
+    "lastKnownWriteTime" : 8457606642722434671,
+    "last_content_update" : 1558505428322,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "338309AA",
+        "caption" : "dataddd",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dataddd&cache_key=338309AA",
+        "displayedObservations" : "2",
+        "environment" : "",
+        "object" : "dataddd",
+        "preview" : "0",
+        "totalObservations" : "2",
+        "variables" : "88"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
