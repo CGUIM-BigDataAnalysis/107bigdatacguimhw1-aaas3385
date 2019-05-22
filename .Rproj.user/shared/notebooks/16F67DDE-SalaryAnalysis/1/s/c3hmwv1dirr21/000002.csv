@@ -1,0 +1,20 @@
+"0","library(jsonlite)"
+"2","package ．jsonlite・ was built under R version 3.5.3"
+"0","library(dplyr)"
+"2","package ．dplyr・ was built under R version 3.5.3"
+"2","
+Attaching package: ．dplyr・
+
+"
+"2","The following objects are masked from ．package:stats・:
+
+    filter, lag
+
+"
+"2","The following objects are masked from ．package:base・:
+
+    intersect, setdiff, setequal, union
+
+"
+"0","#fromjson()"
+"0","#inner_join()"
